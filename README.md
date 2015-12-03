@@ -1,0 +1,2 @@
+# ezstandard
+EZTABLE JavaScript standard
